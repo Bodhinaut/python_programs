@@ -18,3 +18,20 @@ of the string of text
 
 4. Based on these clues you will guess again until you break the code with a
    perfect match, the game will report "CODE CRACKED"!
+
+---
+
+**Python_Level_One**
+### review
+
+* numbers
+* strings
+* list
+* dictionaries
+* tuples
+* excercises
+* control flow
+* functions
+* simple game
+
+---
