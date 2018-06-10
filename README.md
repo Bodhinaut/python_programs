@@ -35,3 +35,15 @@ of the string of text
 * simple game
 
 ---
+
+**Python_Level_One**
+### review
+
+* _name_ and _main_
+* scope
+* OOP
+* errors and exceptions
+* decorators
+* REGEX
+
+---
